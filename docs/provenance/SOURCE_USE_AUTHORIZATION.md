@@ -5,7 +5,14 @@
 
 ## Authorization statement
 
-The founder/user has explicitly stated that Balott has permission to copy, use, and adapt the source code of the external source-code projects discussed for Balott and listed in `docs/provenance/SOURCES.md` as of this planning package.
+The founder/user has explicitly stated that Balott has permission to copy, use, and adapt the source code of the external source-code projects discussed for Balott and listed in `docs/provenance/SOURCES.md` as of the initial planning package.
+
+On 2026-09-15 the founder/user further explicitly stated that Balott has permission to copy and use the source code of the additional sources discussed in the player-desire / sports-simulation research pass. This explicitly includes:
+
+- `osos3lom/AIBaloot` (Hakim / AIBaloot), observed during research at revision `a167a09ab2a390d84a1f14a6f8320e1c84b92794`;
+- any other source-code project added to `docs/provenance/AI_BALOOT_AND_SPORT_REFERENCES.md` for which source bytes are actually available to Balott under that founder permission or sufficient public-license rights.
+
+EA SPORTS FC/FIFA product pages, proprietary Baloot apps, store listings, community discussions, and academic/public product research remain behavior/reference material unless actual source bytes and the applicable rights are available. Permission assertions do not create unavailable source code.
 
 Permitted engineering postures are eligible to include:
 
@@ -53,7 +60,12 @@ For proprietary/source-unavailable behavioral references, Balott may study obser
 
 ## Scope boundary
 
-This record covers the source-code projects in `SOURCES.md` at the planning snapshot represented by the commit containing this file. Later sources added to the registry require either:
+This record covers:
+
+1. the source-code projects in `docs/provenance/SOURCES.md` at the initial planning snapshot; and
+2. the explicitly authorized source-code additions recorded above and in `docs/provenance/AI_BALOOT_AND_SPORT_REFERENCES.md` as part of the 2026-09-15 research pass.
+
+Later unrelated sources require either:
 
 1. a compatible public license sufficient for the intended use; or
 2. an updated founder permission record covering the added source.
