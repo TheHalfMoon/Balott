@@ -24,6 +24,7 @@ The canonical planning package is complete. Product code has not started. See [`
 10. **Evidence before claims.** Fairness, bot strength, anti-cheat, accessibility, performance, and readiness claims require measured evidence.
 11. **Digitize why people love Baloot, not merely the deck.** Mastery, autonomy, partnership, social ritual, rivalry, uncertainty, identity, and history are product primitives.
 12. **The match must remain worth playing after the rewards are gone.** Retention must be carried by play quality and relationships, not packs, FOMO, chores, or artificial scripting.
+13. **Saudi by origin, global by quality.** Arabic is the primary cultural language, while multilingual architecture, RTL/LTR parity, and native-quality localization are product requirements from the first implementation phase.
 
 ## Canonical planning package
 
@@ -32,6 +33,7 @@ The canonical planning package is complete. Product code has not started. See [`
 - [`DESIGN.md`](DESIGN.md) — Impeccable-compatible design direction and UI rules.
 - [`docs/CANONICAL_PRODUCT_PLAN.md`](docs/CANONICAL_PRODUCT_PLAN.md) — full product system and feature model.
 - [`docs/PLAYER_DESIRE_AND_SPORT_SIMULATION.md`](docs/PLAYER_DESIRE_AND_SPORT_SIMULATION.md) — player-motivation research, FIFA/EA SPORTS FC translation doctrine, Balott DNA, Competitive Table vs Authentic Majlis, and anti-dark-pattern rules.
+- [`docs/LOCALIZATION_AND_GLOBALIZATION.md`](docs/LOCALIZATION_AND_GLOBALIZATION.md) — multilingual architecture, RTL/LTR rules, terminology, voice localization, QA, and locale release gates.
 - [`docs/GAMEPLAY_AND_RULES.md`](docs/GAMEPLAY_AND_RULES.md) — rules engine, Open Table, Qayd, deal lifecycle, scoring, and table semantics.
 - [`docs/FAIR_PLAY_RANKED_INTEGRITY.md`](docs/FAIR_PLAY_RANKED_INTEGRITY.md) — verified dealing, ranked, abandonment protection, anti-collusion, and trust.
 - [`docs/BOT_VOICE_AI.md`](docs/BOT_VOICE_AI.md) — Balott Bot, voice commands, AI Coach, and strict information boundaries.
@@ -61,4 +63,18 @@ Balott uses [Impeccable](https://impeccable.style) as the UI design discipline. 
 
 ## Language
 
-Repository, code, specifications, technical plans, evidence, commits, PRs, and implementation-facing content are written in English. The shipped product is Arabic-first and Saudi-native, with excellent English support where useful.
+Repository, code, specifications, technical plans, evidence, commits, PRs, and implementation-facing content are written in English.
+
+The shipped product is **Arabic-first and Saudi-native, but multilingual by design**. Launch-target languages are:
+
+- Arabic (`ar-SA`)
+- English (`en`)
+- Urdu (`ur-PK`)
+- French (`fr-FR`)
+- Spanish (`es-ES`)
+- German (`de-DE`)
+- Simplified Chinese (`zh-Hans`)
+- Persian (`fa-IR`)
+- Portuguese (`pt-BR` initially; architecture supports `pt-PT`)
+
+Arabic, Urdu, and Persian are first-class RTL locales. Locale support is governed by `docs/LOCALIZATION_AND_GLOBALIZATION.md`; machine translation alone is never sufficient for rules, competition, safety, or release-ready localization.
