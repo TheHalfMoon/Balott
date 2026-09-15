@@ -22,6 +22,8 @@ The canonical planning package is complete. Product code has not started. See [`
 8. **No pay-to-win.** Money may buy expression, convenience, premium analysis, or presentation — never better cards, matchmaking, hidden information, or competitive power.
 9. **No casino UX.** Balott should feel like a premium sport and a real majlis, not a slot machine.
 10. **Evidence before claims.** Fairness, bot strength, anti-cheat, accessibility, performance, and readiness claims require measured evidence.
+11. **Digitize why people love Baloot, not merely the deck.** Mastery, autonomy, partnership, social ritual, rivalry, uncertainty, identity, and history are product primitives.
+12. **The match must remain worth playing after the rewards are gone.** Retention must be carried by play quality and relationships, not packs, FOMO, chores, or artificial scripting.
 
 ## Canonical planning package
 
@@ -29,6 +31,7 @@ The canonical planning package is complete. Product code has not started. See [`
 - [`PRODUCT.md`](PRODUCT.md) — audience, product thesis, jobs, positioning, and non-goals.
 - [`DESIGN.md`](DESIGN.md) — Impeccable-compatible design direction and UI rules.
 - [`docs/CANONICAL_PRODUCT_PLAN.md`](docs/CANONICAL_PRODUCT_PLAN.md) — full product system and feature model.
+- [`docs/PLAYER_DESIRE_AND_SPORT_SIMULATION.md`](docs/PLAYER_DESIRE_AND_SPORT_SIMULATION.md) — player-motivation research, FIFA/EA SPORTS FC translation doctrine, Balott DNA, Competitive Table vs Authentic Majlis, and anti-dark-pattern rules.
 - [`docs/GAMEPLAY_AND_RULES.md`](docs/GAMEPLAY_AND_RULES.md) — rules engine, Open Table, Qayd, deal lifecycle, scoring, and table semantics.
 - [`docs/FAIR_PLAY_RANKED_INTEGRITY.md`](docs/FAIR_PLAY_RANKED_INTEGRITY.md) — verified dealing, ranked, abandonment protection, anti-collusion, and trust.
 - [`docs/BOT_VOICE_AI.md`](docs/BOT_VOICE_AI.md) — Balott Bot, voice commands, AI Coach, and strict information boundaries.
@@ -39,6 +42,7 @@ The canonical planning package is complete. Product code has not started. See [`
 - [`docs/SPECGRAIN_EXECUTION.md`](docs/SPECGRAIN_EXECUTION.md) — SpecGrain decomposition and Diffcipline proof model.
 - [`docs/provenance/SOURCES.md`](docs/provenance/SOURCES.md) — source/donor/reference registry.
 - [`docs/provenance/PRODUCT_REFERENCES.md`](docs/provenance/PRODUCT_REFERENCES.md) — exact public product/reference URLs used during shaping.
+- [`docs/provenance/AI_BALOOT_AND_SPORT_REFERENCES.md`](docs/provenance/AI_BALOOT_AND_SPORT_REFERENCES.md) — Baloot AI/Hakim sources plus EA SPORTS FC and player-research references.
 - [`docs/provenance/SOURCE_USE_AUTHORIZATION.md`](docs/provenance/SOURCE_USE_AUTHORIZATION.md) — founder source-use authorization record and adoption controls.
 
 ## Delivery method
