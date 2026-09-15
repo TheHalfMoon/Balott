@@ -15,15 +15,28 @@ This addendum preserves exact public URLs for product references discussed durin
 | Tarbi3ah Google Play | https://play.google.com/store/apps/details?id=com.badambiz.saubaloot | current Android baseline |
 | Sakka Baloot | https://apps.apple.com/sa/app/%D8%B5%D9%83%D8%A9-%D8%A8%D9%84%D9%88%D8%AA/id1435008919 | scoring/product reference |
 | Hakam Al Sakkah | https://play.google.com/store/apps/details?id=sa.hakamalsakkah.hakam_alsakkah | voice-assisted scoring reference |
-| Baloot AI | https://apps.apple.com/us/app/baloot-ai/id6760992309 | AI/card-tracking/product reference |
+| Baloot - AI (iOS) | https://apps.apple.com/us/app/baloot-ai/id6760992309 | Monte Carlo hard-AI, card memory/void inference, partner coordination, offline AI product reference |
+| Baloot AI - بلوت (Android) | https://play.google.com/store/apps/details?id=com.balootai.baloot_ai | adaptive AI/difficulty/tutorial/stats/local privacy product reference |
+| Hakim / AIBaloot | https://github.com/osos3lom/AIBaloot | open Baloot-specific AI/vision/research source; exact adoption tracked separately |
 | Baloot Majlis | https://apps.apple.com/sa/app/id6777370876 | fairness/product reference |
 | Baloot Royale | https://apps.apple.com/sa/app/id1407214532 | market/product reference |
 | Baloot Pro | https://play.google.com/store/apps/details?id=com.balootpro.app | market/product reference |
-| ElBlot | https://www.elblot.com | rules/product reference |
+| ElBlot | https://www.elblot.com | rules/product/PAL AI reference |
 | Balotk | https://balotk.com | multi-game/product reference |
 | Kaboot Games | https://kabootgames.com | naming/market reference |
 | Saudi Press Agency — Abha Baloot tournament | https://www.spa.gov.sa/N2622884 | real-world competition scale and organization |
 | Saudi Press Agency — regulation/referee tournament report | https://www.spa.gov.sa/N2495561 | approved rules, referees, camera-assisted adjudication reference |
+| EA SPORTS FC 26 Gameplay Deep Dive | https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-gameplay-deep-dive | Competitive vs Authentic simulation strategy; gameplay-fundamentals lesson |
+| EA SPORTS FC 25 Gameplay Deep Dive | https://www.ea.com/games/ea-sports-fc/fc-25/news/pitch-notes-fc-25-gameplay-deep-dive | player roles, tactics, real-world data, differentiated identity |
+| EA SPORTS FC PlayStyles | https://help.ea.com/en/articles/ea-sports-fc/playstyles-guide/ | identity/differentiation reference for non-power Balott DNA |
+| EA SPORTS FC Clubs | https://www.ea.com/games/ea-sports-fc/clubs | persistent team, season, stats, leaderboard, social-club reference |
+| EA SPORTS FC Ultimate Team Rivals | https://help.ea.com/en/articles/ea-sports-fc/ultimate-team-rivals/ | division/ladder/checkpoint/season rhythm reference |
+| EA SPORTS FC 26 Career | https://www.ea.com/nb/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-career-mode-deep-dive | long-term personal story and authentic simulation reference |
+
+See also:
+
+- `docs/PLAYER_DESIRE_AND_SPORT_SIMULATION.md`
+- `docs/provenance/AI_BALOOT_AND_SPORT_REFERENCES.md`
 
 ## Source-availability rule
 
