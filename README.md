@@ -8,7 +8,7 @@ Balott is a Saudi-born, competition-grade Baloot platform. The goal is not to bu
 
 `PLANNING_ONLY`
 
-This repository is intentionally starting from a clean slate. Product code is not authorized by this planning package. The first objective is to freeze a coherent product, gameplay, trust, architecture, design, source, and execution plan before implementation begins.
+The canonical planning package is complete. Product code has not started. See [`docs/CURRENT.md`](docs/CURRENT.md) for the exact execution frontier.
 
 ## Product laws
 
@@ -25,6 +25,7 @@ This repository is intentionally starting from a clean slate. Product code is no
 
 ## Canonical planning package
 
+- [`docs/CURRENT.md`](docs/CURRENT.md) — canonical state and first implementation frontier.
 - [`PRODUCT.md`](PRODUCT.md) — audience, product thesis, jobs, positioning, and non-goals.
 - [`DESIGN.md`](DESIGN.md) — Impeccable-compatible design direction and UI rules.
 - [`docs/CANONICAL_PRODUCT_PLAN.md`](docs/CANONICAL_PRODUCT_PLAN.md) — full product system and feature model.
@@ -37,6 +38,7 @@ This repository is intentionally starting from a clean slate. Product code is no
 - [`docs/ROADMAP.md`](docs/ROADMAP.md) — dependency-ordered program from foundation to championship-grade operation.
 - [`docs/SPECGRAIN_EXECUTION.md`](docs/SPECGRAIN_EXECUTION.md) — SpecGrain decomposition and Diffcipline proof model.
 - [`docs/provenance/SOURCES.md`](docs/provenance/SOURCES.md) — source/donor/reference registry.
+- [`docs/provenance/PRODUCT_REFERENCES.md`](docs/provenance/PRODUCT_REFERENCES.md) — exact public product/reference URLs used during shaping.
 - [`docs/provenance/SOURCE_USE_AUTHORIZATION.md`](docs/provenance/SOURCE_USE_AUTHORIZATION.md) — founder source-use authorization record and adoption controls.
 
 ## Delivery method
