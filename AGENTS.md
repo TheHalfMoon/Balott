@@ -98,3 +98,15 @@ A screenshot is evidence of appearance, not correctness. A passing unit test is 
 - Do not weaken required tests or gates to obtain green status.
 - Preserve failures and negative evidence rather than rerunning until a favorable result appears without explanation.
 - Gameplay/rules/fairness changes require stronger review than ordinary UI copy changes.
+
+<!-- graft:start -->
+## Graft — repository context layer
+
+Use Graft (https://github.com/trailhq/Graft, `@nanonets/graft`) as local developer/agent repository-context and navigation tooling. While Balott is `PLANNING_ONLY`, Graft does not authorize product implementation or create an executable SpecGrain leaf.
+
+If Graft is unavailable or the local `graft/` graph is absent/stale, run `graft init`, select the active agent(s), then run `graft build`. Before broad source exploration prefer `graft check`, `graft map`, `graft ask "<question>" --source`, `graft skeleton <file>`, `graft callers <symbol>`, and `graft grep "<literal>"`. After material code changes, run `graft build` again.
+
+Treat `graft/` as a local regenerable cache and do not commit it. Keep usage zero-cost and local; do not introduce paid model/API usage or hidden remote fallback.
+
+Graft output is context only, never gameplay/fairness evidence, SpecGrain authority, source-reuse provenance, benchmark evidence, or release proof. Continue all SpecGrain, Diffcipline, exact-revision, Jev where applicable, Alibaba Open Code Review, CI, accessibility, security, and provenance gates. Never fabricate Graft output, execution, reviews, or evidence.
+<!-- graft:end -->
